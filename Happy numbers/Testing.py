@@ -1,3 +1,5 @@
+#Input a number and check if it is happy or not.
+
 def square_sum(s): #calculate the sum of square values of a number's digits
     a=s
     sum=0
